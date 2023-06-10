@@ -4,6 +4,7 @@ git clone https://github.com/Zenkiez22/Assessment4.git
 
 
 Install the Public Dependencies Install the Server Dependencies
+
 cd my-chat-app 
 npm Install
 
